@@ -1,0 +1,4 @@
+/node_modules/
+/.idea/modules.xml
+/.idea/cdk-codepipeline-lambda-canary-deployment.iml
+/.idea/vcs.xml
